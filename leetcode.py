@@ -1,29 +1,3 @@
-import SimpleITK as sitk
-import os
-import numpy as np
-import shutil
-import csv
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 import pandas as pd
